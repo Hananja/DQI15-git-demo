@@ -1,2 +1,4 @@
 Dies ist ein Test.
 Hallo Welt!
+Goodbye crule world!
+
